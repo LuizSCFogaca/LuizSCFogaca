@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com grande foco em **desenvolvim
 
 * 🌱 Atualmente estudando e me aprofundando em **Java (Spring Boot)**, **C++**, algoritmos estruturados e protocolos de rede (TCP/UDP, Wireshark).
 * 💡 Já desenvolvi projetos práticos como APIs de controle financeiro integradas a bots do Telegram (DespesaBot), sincronizadores de arquivos Peer-to-Peer descentralizados, proxies TCP para monitoramento de tráfego, além de jogos incrementais (Idle Games) utilizando JavaScript puro.
-* 🤝 Aberto a colaborações em projetos open-source e buscando oportunidades de estágio (especialmente em BackOffice, análise de dados ou desenvolvimento Back-end) para aplicar e expandir minhas habilidades.
+* 🤝 Atualmente buscando oportunidades de estágio (especialmente em desenvolvimento beck-end, infra e análise de dados) para aplicar e expandir minhas habilidades.
 * 🎯 Meu objetivo é crescer como desenvolvedor back-end especialista em Java, focando em sistemas distribuídos, banco de dados (SQL) e boas práticas de código.
 
 ---
