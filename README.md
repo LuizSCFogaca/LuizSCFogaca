@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Luiz Fogaça!
 
-Sou um desenvolvedor apaixonado por tecnologia, com grande foco em **desenvolvimento back-end** e arquitetura de redes. Movido por desafios complexos e por criar sistemas eficientes, estou constantemente explorando novos protocolos de comunicação, lógica de programação e construindo projetos que unem inovação e alta performance.
+Sou um desenvolvedor interessado por tecnologia, com grande foco em **desenvolvimento back-end** e arquitetura de redes. Movido por desafios complexos e por criar sistemas eficientes, estou constantemente explorando novos protocolos de comunicação, lógica de programação e construindo projetos que unem inovação e alta performance.
 
 ---
 
