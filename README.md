@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Luiz Fogaça!
 
-Sou um desenvolvedor **Full Stack** e estudante de Ciência da Computação, especializado na intersecção entre engenharia de software e inteligência visual de dados. Movido por desafios algorítmicos e arquitetura de sistemas, atuo de ponta a ponta: desde a estruturação de APIs e processamento de dados no back-end até a criação de interfaces reativas e mapas interativos no front-end.
+Sou um desenvolvedor **Full Stack** e estudante de Ciência da Computação, especializado na intersecção entre engenharia de software e inteligência visual de dados. Movido por desafios algorítmicos e arquitetura de sistemas, atuo de ponta a ponta: desde a estruturação de APIs e processamento de dados no back-end até a criação de interfaces reativas no front-end.
 
 ---
 
