@@ -1,30 +1,37 @@
 # 👋 Olá! Eu sou o Luiz Fogaça!
 
-Sou um desenvolvedor interessado por tecnologia, com grande foco em **desenvolvimento back-end** e arquitetura de redes. Movido por desafios complexos e por criar sistemas eficientes, estou constantemente explorando novos protocolos de comunicação, lógica de programação e construindo projetos que unem inovação e alta performance.
+Sou um desenvolvedor **Full Stack** e estudante de Ciência da Computação, especializado na intersecção entre engenharia de software e inteligência visual de dados. Movido por desafios algorítmicos e arquitetura de sistemas, atuo de ponta a ponta: desde a estruturação de APIs e processamento de dados no back-end até a criação de interfaces reativas e mapas interativos no front-end.
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-* 🌱 Atualmente estudando e me aprofundando em **Java (Spring Boot)**, **C++**, algoritmos estruturados e protocolos de rede (TCP/UDP, Wireshark).
-* 💡 Já desenvolvi projetos práticos como APIs de controle financeiro integradas a bots do Telegram (DespesaBot), sincronizadores de arquivos Peer-to-Peer descentralizados, proxies TCP para monitoramento de tráfego, além de jogos incrementais (Idle Games) utilizando JavaScript puro.
-* 🤝 Atualmente buscando oportunidades de estágio (especialmente em desenvolvimento back-end, infra e análise de dados) para aplicar e expandir minhas habilidades.
-* 🎯 Meu objetivo é crescer como desenvolvedor back-end especialista em Java, focando em sistemas distribuídos, banco de dados (SQL) e boas práticas de código.
-
----
-
-## 💻 Tecnologias e Ferramentas que uso
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+- 🔭 Atualmente atuando como **Estagiário Full Stack**, focado no ecossistema **Python (Flask, SQLAlchemy)** e **React (TypeScript)** para o desenvolvimento de módulos analíticos, visualização de grandes volumes de dados (D3.js) e inteligência geoespacial (Leaflet, Haversine).
+- 💡 Criador de projetos práticos como o **DespesaBot** (assistente financeiro no Telegram feito em Java), automações e agentes com **n8n** e Docker, além de implementações de algoritmos de busca (BFS/Minimax) e estruturas de dados do zero em **C++** e **Python**.
+- 🎯 Meu objetivo é construir sistemas escaláveis de alta criticidade, unindo código limpo (Clean Architecture), matemática e Data Viz para transformar dados complexos em tomada de decisão.
 
 ---
 
-## 📬 Como me encontrar
+### 💻 Tecnologias e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fogaça-4805a72a5)
+**Linguagens & Front-end:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Back-end, Dados & Infraestrutura:**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+### 📬 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfogaça/)
